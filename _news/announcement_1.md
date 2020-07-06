@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2020-06-01 15:59:00-0400
 inline: true
 ---
 
-A simple inline announcement.
+My latest paper, on real-time compression of non iid data was accepted at ICML 2020 :O
